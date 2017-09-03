@@ -10,4 +10,8 @@
     <string name="t_v_8">48</string>
     <string name="t_v_9">Notificaciones</string>
     <string name="t_v_10">Estado de la bateria: 91%</string>
+    <string name="item1">Opcion1</string>
+    <string name="item2">Opcion2</string>
+    <string name="str_item1">Opcion</string>
+    <string name="str_item2">Opcion2</string>
 </resources>
